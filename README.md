@@ -2,7 +2,7 @@
 
 Projeto feito com Vite + Reactjs por Victor Alejandro Pires Madrid
 
-## Este projeto foi feito com base nos estudos realizados na matéria de Computação Gráfica na faculdade.
+## Este projeto foi feito com base nos estudos realizados na matéria de Computação Gráfica da faculdade.
 
 Este projeto têm como objetivo reforçar meus estudos em Reactjs e utilizar a nova estilização com styled-components.
 
