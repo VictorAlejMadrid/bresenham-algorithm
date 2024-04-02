@@ -2,7 +2,7 @@
 
 Projeto feito com Vite + Reactjs por Victor Alejandro Pires Madrid
 
-## Este projeto foi feito com base nos estudos realizados na matéria de Computação Gráfica na faculdade.
+## Este projeto foi feito com base nos estudos realizados na matéria de Computação Gráfica da faculdade.
 
 Este projeto têm como objetivo reforçar meus estudos em Reactjs e utilizar a nova estilização com styled-components.
 
@@ -16,7 +16,7 @@ O algoritmo recolhe dois pontos, por exemplo, ponto A(0, 0) e ponto B(3, 0). Des
 
 #### Na realidade...
 
-Na realidade, o algoritmo descobre se a maior distancia entre os pontos se encontra no X ou no Y. A partir deste dado, o algoritmo cria um passo para cada um desses valores, aumentando o X e o Y em valores diferente porém regulares, permitindo que retas com diferentes ângulos sejam criadas.
+Na realidade, o algoritmo descobre se a maior distancia entre os pontos se encontra no X ou no Y. A partir deste dado, o algoritmo cria um passo para cada um desses valores, aumentando o X e o Y em valores diferentes porém regulares, permitindo que retas com diferentes ângulos sejam criadas.
 
 #### Exemplo
 
